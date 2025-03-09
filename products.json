@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Makita Drill Machine",
+        "category": "drills",
+        "price": "7500",
+        "description": "High-performance drill machine Dual Battery",
+        "images": [
+            "images/img/drill.jpg",
+            "images/img/dr.jpg",
+            "images/img/drill22.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Edon UAE Drill Machine",
+        "category": "drills",
+        "price": "22000",
+        "description": "High-performance drill machine 24 V",
+        "images": [
+            "images/img/drill33.jpg",
+            "images/img/drill3333.jpg",
+            "images/img/drill333333.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Jadveer 14 Inch Pipe Cutter",
+        "category": "cutters",
+        "price": "25000",
+        "description": "Powerful multi-phase 2200w Cutter machine",
+        "images": [
+            "images/cutter01.jpg",
+            "images/cutter02.jpg",
+            "images/cutter03.jpg"
+        ]
+    }
+]
