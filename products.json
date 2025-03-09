@@ -3,7 +3,7 @@
         "id": "1",
         "name": "Makita Drill Machine",
         "category": "drills",
-        "price": "7500",
+        "price": "700",
         "description": "High-performance drill machine Dual Battery",
         "images": [
             "images/img/drill.jpg",
@@ -27,7 +27,7 @@
         "id": "3",
         "name": "Jadveer 11 Inches Pipe Cutter",
         "category": "cutters",
-        "price": "25000",
+        "price": "1000",
         "description": "Powerful multi-phase 2200w Cutter machine",
         "images": [
             "images/cutter01.jpg",
