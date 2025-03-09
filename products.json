@@ -3,7 +3,7 @@
         "id": "1",
         "name": "Makita Drill Machine",
         "category": "drills",
-        "price": "700",
+        "price": "7500",
         "description": "High-performance drill machine Dual Battery",
         "images": [
             "images/img/drill.jpg",
@@ -25,14 +25,26 @@
     },
     {
         "id": "3",
-        "name": "Jadveer 11 Inches Pipe Cutter",
+        "name": "Jadveer 14 Inch Pipe Cutter",
         "category": "cutters",
-        "price": "1000",
+        "price": "2500",
         "description": "Powerful multi-phase 2200w Cutter machine",
         "images": [
             "images/cutter01.jpg",
             "images/cutter02.jpg",
             "images/cutter03.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Air Compresser 24L pure copper",
+        "category": "cutters",
+        "price": "32000",
+        "description": "Powerful Air Compresser with advanced arc control for industrial applications.",
+        "images": [
+            "images/bluepaint2.jpg", 
+                    "images/bluepaint3.jpg", 
+                    "images/plantblue1.jpg"
         ]
     }
 ]
